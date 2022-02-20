@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magicgame/static/css/main.1de122c1.css",
+    "main.js": "/magicgame/static/js/main.cc493a0f.js",
+    "index.html": "/magicgame/index.html",
+    "main.1de122c1.css.map": "/magicgame/static/css/main.1de122c1.css.map",
+    "main.cc493a0f.js.map": "/magicgame/static/js/main.cc493a0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1de122c1.css",
+    "static/js/main.cc493a0f.js"
+  ]
+}
